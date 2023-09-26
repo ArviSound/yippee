@@ -1,0 +1,54 @@
+body{
+    margin:0 auto;
+    min-width: 920px;
+    max-width: 1200px;
+    padding: 20px 40px 0 40px;
+}
+
+.fa-angles-right{
+    color: rgb(182, 182, 182);
+ }
+
+ .fa-angles-right:hover{
+    color: red;
+ }
+
+main article a{
+    text-decoration: none;
+    color: black;
+}
+
+main article a:hover{
+    color: red;
+}
+
+h4{
+    padding: 16px 0;
+    border-top: rgb(182, 182, 182) solid 4px;
+    border-bottom: rgb(182, 182, 182) solid 4px;
+    border-bottom-style: double;
+    border-top-style: double;
+}
+
+header{
+    object-fit: cover;
+    text-align: center;  
+}
+
+main{
+    display: inline-block;
+}
+
+.grid{
+    padding: 10px 0;
+    float: left;
+}
+
+article{
+    width: 25%;
+}
+
+footer p{
+    color: rgb(211, 211, 211); 
+    text-align:center;
+}
